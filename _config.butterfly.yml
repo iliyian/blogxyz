@@ -42,8 +42,8 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  # fab fa-github: https://github.com/xxxxx || Github
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
+  fab fa-github: https://github.com/iliyian || Github
+  fas fa-envelope: mailto:sqzrmhj@gmail.com || Email
 
 # search (搜索)
 # --------------------------------------
@@ -80,7 +80,7 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
+favicon: /img/illust_86272658_20201220_210511.jpg
 
 # Avatar (頭像)
 avatar:
@@ -91,10 +91,10 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img:
+index_img: '/img/yasoga no sora.jpg'
 
 # If the banner of page not setting, it will show the top_img
-default_top_img:
+default_top_img: 
 
 # The banner image of archive page
 archive_img:
@@ -640,12 +640,12 @@ aside:
     description:
     button:
       enable: true
-      icon: fab fa-github
+      icon: fab fa-twitter
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://twitter.com/iliyian01
   card_announcement:
-    enable: true
-    content: This is my Blog
+    enable: false
+    content: 请问你是谁？
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
