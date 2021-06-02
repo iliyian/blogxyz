@@ -7,10 +7,10 @@
 #   name: link || icon
 
 menu:
-  # Home: / || fas fa-home
+  Home: / || fas fa-home
   # Archives: /archives/ || fas fa-archive
   # Tags: /tags/ || fas fa-tags
-  # Categories: /categories/ || fas fa-folder-open
+  Categories: /categories/ || fas fa-folder-open
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
@@ -91,10 +91,10 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: '/img/yasoga no sora.jpg'
+index_img: '/img/sora_centered.jpg'
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: 
+default_top_img: '/img/sora_centered.jpg'
 
 # The banner image of archive page
 archive_img:
@@ -110,7 +110,7 @@ tag_per_img:
 
 # If the banner of category page not setting, it will show the top_img
 # note: category page, not categories page (子分類頁面的 top_img)
-category_img:
+category_img: '/img/sora_centered.jpg'
 
 # The banner image of category page
 # format:
@@ -156,7 +156,7 @@ post_meta:
 
 # wordcount (字數統計)
 wordcount:
-  enable: false
+  enable: true
   post_wordcount: true
   min2read: true
   total_wordcount: true
@@ -409,7 +409,7 @@ footer:
   owner:
     enable: true
     since: 2020
-  custom_text:
+  custom_text: A Great Poet.
   copyright: true # Copyright of theme and framework
 
 # Analysis
@@ -502,10 +502,10 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background:
+background: url(/img/光芒万丈的未来.jpg)
 
 # Footer Background
-footer_bg: false
+footer_bg: true
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside-bottom:
@@ -798,7 +798,7 @@ aplayerInject:
 # position 彈窗位置
 # 可選 top-left / top-center / top-right / bottom-left / bottom-center / bottom-right
 snackbar:
-  enable: false
+  enable: true
   position: bottom-left
   bg_light: '#49b1f5' # The background color of Toast Notification in light mode
   bg_dark: '#121212' # The background color of Toast Notification in dark mode
