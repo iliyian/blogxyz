@@ -640,7 +640,7 @@ aside:
     description:
     button:
       enable: true
-      icon: fab fa-telegram
+      icon: fab fa-telegram-plane
       text: Chat Me
       link: https://t.me/iliyian
   card_announcement:
