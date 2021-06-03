@@ -640,9 +640,9 @@ aside:
     description:
     button:
       enable: true
-      icon: fab fa-twitter
-      text: Follow Me
-      link: https://twitter.com/iliyian01
+      icon: fab fa-telegram
+      text: Chat Me
+      link: https://t.me/iliyian
   card_announcement:
     enable: false
     content: 请问你是谁？
