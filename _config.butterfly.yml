@@ -562,13 +562,19 @@ click_heart:
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
 ClickShowText:
-  enable: false
+  enable: true
   text:
-    # - I
-    # - LOVE
-    # - YOU
+     # - I
+     # - LOVE
+     # - YOU
+     - ’ฅ(≚ᄌ≚)喵喵‘
+     - ‘(ฅ'ω'ฅ)喵’
+     - ’(=ↀωↀ=)喵呜‘
+     - ‘＼(=^‥^)/’`喵’
+     - 'ଲ(ⓛ ω ⓛ)ଲ喵喵呜'
+     - ‘(^◔ᴥ◔^)喵’
   fontSize: 15px
-  random: false
+  random: true
   mobile: false
 
 # Default display mode (網站默認的顯示模式)
