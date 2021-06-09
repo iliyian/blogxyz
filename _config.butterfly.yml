@@ -854,10 +854,10 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    # - <link rel="stylesheet" href="/xxx.css">
     - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
-    - <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Liu+Jian+Mao+Cao&display=swap" media="defer" onload="this.media='all'">
-    - <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap" media="defer" onload="this.media='all'">
+    # - <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Liu+Jian+Mao+Cao&display=swap" media="defer" onload="this.media='all'">
+    # - <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap" media="defer" onload="this.media='all'">
+    # -  <link rel="stylesheet" href="/css/MaShanZheng-Regular.ttf" media="defer" onload="this.media='all'">
   bottom:
     # - <script src="xxxx"></script>
 
