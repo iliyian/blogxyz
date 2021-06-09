@@ -560,12 +560,12 @@ fireworks:
 
 # Mouse click effects: Heart symbol (鼠標點擊效果: 愛心)
 click_heart:
-  enable: true
+  enable: false
   mobile: true
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
 ClickShowText:
-  enable: false
+  enable: true
   text:
      # - I
      # - LOVE
@@ -578,7 +578,7 @@ ClickShowText:
      - ‘(^◔ᴥ◔^)喵’
   fontSize: 15px
   random: true
-  mobile: false
+  mobile: true
 
 # Default display mode (網站默認的顯示模式)
 # light (default) / dark
