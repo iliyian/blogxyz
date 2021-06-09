@@ -262,6 +262,7 @@ comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo
   use:
+    - gitalk
   # - Valine
   # - Disqus
   text: true # Display the comment name next to the button
@@ -296,12 +297,13 @@ livere:
 # gitalk
 # https://github.com/gitalk/gitalk
 gitalk:
-  client_id:
-  client_secret:
-  repo:
-  owner:
-  admin:
-  language: en # en, zh-CN, zh-TW, es-ES, fr, ru
+  client_id: 82d3ae30fb1309b8aef2
+  client_secret: 9a7da5f699aaa02763e4ad89e662fff858e00511
+  repo: blog_comments
+  owner: iliyian
+  admin: 
+    - iliyian
+  language: zh-CN # en, zh-CN, zh-TW, es-ES, fr, ru
   perPage: 10 # Pagination size, with maximum 100.
   distractionFreeMode: false # Facebook-like distraction free mode.
   pagerDirection: last # Comment sorting direction, available values are last and first.
