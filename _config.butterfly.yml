@@ -297,12 +297,12 @@ livere:
 # gitalk
 # https://github.com/gitalk/gitalk
 gitalk:
+  enable: true
   client_id: 82d3ae30fb1309b8aef2
   client_secret: 9a7da5f699aaa02763e4ad89e662fff858e00511
-  repo: blog_comments
+  repo: blog.bookgirl.xyz
   owner: iliyian
-  admin: 
-    - iliyian
+  admin: iliyian
   language: zh-CN # en, zh-CN, zh-TW, es-ES, fr, ru
   perPage: 10 # Pagination size, with maximum 100.
   distractionFreeMode: false # Facebook-like distraction free mode.
