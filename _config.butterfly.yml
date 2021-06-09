@@ -262,7 +262,7 @@ comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo
   use:
-    - gitalk
+    - Gitalk
   # - Valine
   # - Disqus
   text: true # Display the comment name next to the button
@@ -596,14 +596,15 @@ beautify:
 font:
   global-font-size:
   code-font-size:
-  font-family: ZCOOL KuaiLe
+  font-family: ZCOOL XiaoWei
   code-font-family:
 
 # Font settings for the site title and site subtitle
 # 左上角網站名字 主頁居中網站名字
 blog_title_font:
-  font_link: https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap
-  font-family: ZCOOL KuaiLe
+  font_link: https://fonts.googleapis.com/css2?family=ZCOOL+XiaoWei&display=swap
+  # font_link: /css/custom.css
+  font-family: ZCOOL XiaoWei
 
 # The setting of divider icon (水平分隔線圖標設置)
 hr_icon:
