@@ -85,7 +85,7 @@ favicon: /img/illust_86272658_20201220_210511.jpg
 
 # Avatar (頭像)
 avatar:
-  img: /img/illust_86272658_20201220_210511.jpg
+  img: /img/tg_avatar.jpg
   effect: false
 
 # Disable all banner image
@@ -203,7 +203,7 @@ post_edit:
   enable: true
   # url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
   # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
-  url: https://github.com/iliyian/blog.bookgirl.xyz/edit/main/source/
+  url: https://github.com/iliyian/blogxyz/edit/main/source/
 
 # Related Articles
 related_post:
@@ -300,7 +300,7 @@ gitalk:
   enable: true
   client_id: 82d3ae30fb1309b8aef2
   client_secret: 9a7da5f699aaa02763e4ad89e662fff858e00511
-  repo: blog.bookgirl.xyz
+  repo: blog_comments
   owner: iliyian
   admin: iliyian
   language: zh-CN # en, zh-CN, zh-TW, es-ES, fr, ru
