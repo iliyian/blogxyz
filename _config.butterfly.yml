@@ -208,7 +208,7 @@ post_edit:
 # Related Articles
 related_post:
   enable: true
-  limit: 6 # Number of posts displayed
+  limit: 3 # Number of posts displayed
   date_type: created # or created or updated 文章日期顯示創建日或者更新日
 
 # figcaption (圖片描述文字)
@@ -474,11 +474,11 @@ site_verification:
 # Theme color for customize
 # Notice: color value must in double quotes like "#000" or may cause error!
 
-# theme_color:
-#   enable: true
-#   main: "#49B1F5"
+theme_color:
+  enable: true
+  main: "#ff6f00"
 #   paginator: "#00c4b6"
-#   button_hover: "#FF7242"
+  button_hover: "#1979a6"
 #   text_selection: "#00c4b6"
 #   link_color: "#99a9bf"
 #   meta_color: "#858585"
