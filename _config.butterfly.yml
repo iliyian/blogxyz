@@ -45,6 +45,8 @@ social:
   fab fa-github: https://github.com/iliyian || Github
   fab fa-twitter: https://twitter.com/iliyian01 || Twitter
   fab fa-telegram: https://t.me/iliyian || Telegram
+  iconfont icon-bilibili3: https://space.bilibili.com/299627858 || Bilibili
+  iconfont icon-pixiv1: https://www.pixiv.net/users/31540978 || Pixiv
 
 # search (搜索)
 # --------------------------------------
@@ -855,9 +857,7 @@ css_prefix: true
 inject:
   head:
     - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
-    # - <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Liu+Jian+Mao+Cao&display=swap" media="defer" onload="this.media='all'">
-    # - <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap" media="defer" onload="this.media='all'">
-    # -  <link rel="stylesheet" href="/css/MaShanZheng-Regular.ttf" media="defer" onload="this.media='all'">
+    - <link rel="stylesheet" href="/css/iconfont.css" media="defer" onload="this.media='all'">
   bottom:
     # - <script src="xxxx"></script>
 
