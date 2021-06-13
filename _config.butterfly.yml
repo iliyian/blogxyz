@@ -578,6 +578,18 @@ ClickShowText:
      - ‘＼(=^‥^)/’`喵’
      - 'ଲ(ⓛ ω ⓛ)ଲ喵喵呜'
      - ‘(^◔ᴥ◔^)喵’
+     - (=ﾟωﾟ)ﾉﾆｬｰﾝ♪喵嘿
+     - ฅ(=･ω･=)ฅ欸喵
+     - (=｀ω´=)喵哼
+     - (^-x-^)喵叽
+     - ‿ (= ^υ_υ^)..zZ喵...
+     - (=；ェ；=)喵呜
+     - 猫(●︎ↀ︎ωↀ︎●︎)✧︎魚
+     - (((((((=^･ｪ･^=)喵喵
+     - (* ´ω｀)❤喵~
+     - Σ(･ω･=ﾉ)ﾉ喵呜
+     - (ﾟ〇ﾟ;=)ﾉ喵哇
+     - ミ๏ｖ๏彡喵嗷
   fontSize: 15px
   random: true
   mobile: true
@@ -598,7 +610,7 @@ beautify:
 font:
   global-font-size:
   code-font-size:
-  font-family: Kan Hei
+  font-family:
   code-font-family:
 
 # Font settings for the site title and site subtitle
