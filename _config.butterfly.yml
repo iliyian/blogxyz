@@ -710,7 +710,7 @@ newest_comments:
   valine: false
   github_issues:
     enable: true
-    repo: https://github.com/iliyian/blog_comments
+    repo: iliyian/blog_comments
   disqus:
     enable: false
     forum:
