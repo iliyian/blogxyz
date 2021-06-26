@@ -15,6 +15,7 @@ menu:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
   任意门: /link/ || fas fa-link
+  游乐园: /game/ || fas fa-chess-queen
   # About: /about/ || fas fa-heart
 
 # Hide the child menu items in mobile sidebar
