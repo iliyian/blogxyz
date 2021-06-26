@@ -18,4 +18,9 @@
   link_list:
     - name: 别踩白块儿
       link: /bcbker/
+      avatar: /img/bcbker.jpg
       descr: 简简单单二元小游戏
+    - name: 别踩白块儿
+      link: /boyi/
+      avatar: /img/boyi.jpg
+      descr: 简简单单要克制欲望的游戏
