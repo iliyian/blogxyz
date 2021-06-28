@@ -135,14 +135,14 @@ cover:
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
-  flink: /img/friend_404.gif
-  post_page: /img/404.jpg
+  flink: https://http.cat/404
+  post_page: https://http.cat/404
 
 # A simple 404 page
 error_404:
   enable: true
   subtitle: '你飞向了世界之外'
-  background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
+  background: https://http.cat/404
 
 post_meta:
   page: # Home Page
