@@ -20,7 +20,11 @@
       link: /bcbker/
       avatar: /img/bcbker.jpg
       descr: 简简单单二元小游戏
-    - name: 别踩白块儿
+    - name: 博弈小游戏
       link: /boyi/
       avatar: /img/boyi.jpg
       descr: 简简单单要克制欲望的游戏
+    - name: 别踩白块儿 2 之 canvas重制版
+      link: /bcbker2/
+      avatar: /img/bcbker2.jpg
+      descr: 虽然游戏体验可能还没原版好QAQ
