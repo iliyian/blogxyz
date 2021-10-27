@@ -648,6 +648,10 @@ subtitle:
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
   sub:
     - 冷落天河星欲颤，北风摇晃琉璃盏
+    - 放船江疾，落叶风骤，掩袖各自弃
+    - 春去也，飞红万点愁如海
+    - 挼尽梅花无好意，赢得满衣清泪
+    - 添尽罗衣秋可在，百年风雪愁如海
 
 # Loading Animation (加載動畫)
 preloader: false
@@ -710,8 +714,8 @@ busuanzi:
 # Time difference between publish date and now (網頁運行時間)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
-  enable: false
-  publish_date:
+  enable: true
+  publish_date: 06/02/2021
 
 # Aside widget - Newest Comments
 newest_comments:
