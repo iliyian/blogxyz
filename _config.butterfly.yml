@@ -667,7 +667,7 @@ aside:
   position: right # left or right
   card_author:
     enable: true
-    description: 高二自闭小药娘
+    description: 高二自闭小可爱
     button:
       enable: true
       icon: fab fa-telegram-plane
