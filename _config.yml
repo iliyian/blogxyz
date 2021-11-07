@@ -126,7 +126,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/iliyian/iliyian.github.io
+  repo: git@github.com:iliyian/iliyian.github.io
   branch: gh-pages
 
 #RSS
