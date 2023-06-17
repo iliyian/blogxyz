@@ -96,10 +96,10 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: '/img/sora_centered.jpg'
+index_img: '/img/sonetto_pondering_cut.png'
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: '/img/sora_centered.jpg'
+default_top_img: '/img/sonetto_pondering_cut.png'
 
 # The banner image of archive page
 archive_img:
