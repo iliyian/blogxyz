@@ -879,6 +879,7 @@ inject:
     - <link rel="stylesheet" href="/css/iconfont.css" media="defer" onload="this.media='all'">
   bottom:
     # - <script src="xxxx"></script>
+    - <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token":"5ce475ca405b41b995ffb2cd9a5edd8b"}'></script><!-- End Cloudflare Web Analytics -->
 
 # CDN
 # Don't modify the following settings unless you know how they work
