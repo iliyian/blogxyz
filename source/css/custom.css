@@ -34,6 +34,8 @@
     src: url(/css/二次元字体.ttf);
 }
 
+#article-container > p {text-indent: 2em}
+
 /* @font-face {
     font-family: 'Xiao Li';
     src: url(/css/汉仪小隶书简.ttf);
