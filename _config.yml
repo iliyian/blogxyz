@@ -68,8 +68,8 @@ relative_link: false
 future: true
 highlight:
   enable: true
-  line_number: true
-  auto_detect: false
+  line_number: false
+  auto_detect: true
   tab_replace: ''
   wrap: true
   hljs: false
@@ -137,3 +137,7 @@ feed:
   type: atom
   path: atom.xml
   limit: 20
+
+markdown:
+  plugins:
+    - '@renbaoshuo/markdown-it-katex'
