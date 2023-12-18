@@ -17,6 +17,10 @@
       link: https://owo.wyc.rest/
       avatar: https://owo.wyc.rest/img/avatar.webp
       descr: 这只是一个小破站而已！
+    - name: MrNobody
+      link: https://mrnobody233.github.io/
+      avatar: https://mrnobody233.github.io/images/avatar.jpg
+      descr: = 保持呼吸 不要断气 =
 - class_name: 游乐园
   class_desc: 易安做的内建小游戏噢
   link_list:
