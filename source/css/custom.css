@@ -23,22 +23,22 @@
 @font-face {
     font-family: 'Ou Kai';
     src: url(/css/OuKai.otf);
-}
+} */
 
 @font-face {
     font-family: 'Kan Hei';
     src: url(/css/方正兰亭刊黑_GBK.ttf);
 }
 
-@font-face {
+/* @font-face {
     font-family: 'Er Ci Yuan';
     src: url(/css/二次元字体.ttf);
 } */
 
-@font-face {
+/* @font-face {
     font-family: 'Ke Ben Song';
     src: url(/css/AaGuDianKeBenSong-2.ttf);
-}
+} */
 
 /* #article-container > p {text-indent: 2em} */
 
