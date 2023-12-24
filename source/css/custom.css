@@ -1,5 +1,5 @@
 /* 自定义字体 */
-/* @font-face {
+@font-face {
     font-family: 'ZCOOL XiaoWei';
     src: url(https://fonts.googleapis.com/css2?family=ZCOOL+XiaoWei&display=swap);
 }
@@ -27,19 +27,24 @@
 @font-face {
     font-family: 'Kan Hei';
     src: url(/css/方正兰亭刊黑_GBK.ttf);
-} */
+}
 
 @font-face {
     font-family: 'Er Ci Yuan';
     src: url(/css/二次元字体.ttf);
 }
 
-#article-container > p {text-indent: 2em}
+@font-face {
+    font-family: 'Ke Ben Song';
+    src: url(/css/AaGuDianKeBenSong-2.ttf);
+}
 
-/* @font-face {
+/* #article-container > p {text-indent: 2em} */
+
+@font-face {
     font-family: 'Xiao Li';
     src: url(/css/汉仪小隶书简.ttf);
-} */
+}
 
 /* body{
     font-family: 'Noto Serif TC'!important;

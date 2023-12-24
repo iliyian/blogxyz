@@ -147,13 +147,13 @@ error_404:
 
 post_meta:
   page: # Home Page
-    date_type: both # created or updated or both 主頁文章日期是創建日或者更新日或都顯示
+    date_type: created # created or updated or both 主頁文章日期是創建日或者更新日或都顯示
     date_format: date # date/relative 顯示日期還是相對日期
     categories: true # true or false 主頁是否顯示分類
     tags: true # true or false 主頁是否顯示標籤
     label: true # true or false 顯示描述性文字
   post:
-    date_type: both # created or updated or both 文章頁日期是創建日或者更新日或都顯示
+    date_type: created # created or updated or both 文章頁日期是創建日或者更新日或都顯示
     date_format: date # date/relative 顯示日期還是相對日期
     categories: true # true or false 文章頁是否顯示分類
     tags: true # true or false 文章頁是否顯示標籤
@@ -612,14 +612,14 @@ beautify:
 font:
   global-font-size:
   code-font-size:
-  font-family: Er Ci Yuan
+  font-family: Ke Ben Song
   code-font-family:
 
 # Font settings for the site title and site subtitle
 # 左上角網站名字 主頁居中網站名字
 blog_title_font:
   font_link:
-  font-family: Er Ci Yuan
+  font-family: Liu Jian Mao Cao
 
 # The setting of divider icon (水平分隔線圖標設置)
 hr_icon:
@@ -651,7 +651,6 @@ subtitle:
     - 放船江疾，落叶风骤，掩袖各自泣
     - 落叶清霜江底月，扁舟离岸雨潇潇
     - 春去也，飞红万点愁如海
-    - 挼尽梅花无好意，赢得满衣清泪
     - 添尽罗衣秋可在，百年风雪愁如海
     - 明月照积雪，朔风劲且哀
 
