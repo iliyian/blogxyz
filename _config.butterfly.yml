@@ -412,7 +412,7 @@ crisp:
 footer:
   owner:
     enable: true
-    since: 2020
+    since: 2021
   custom_text: To Be A Great Poet.<br/><a href="https://icp.gov.moe/?keyword=20232063" target="_blank">萌ICP备20232063号</a>
   copyright: true # Copyright of theme and framework
 
@@ -822,14 +822,14 @@ note:
 # It may contain bugs and unstable, give feedback when you find the bugs.
 # https://github.com/MoOx/pjax
 pjax:
-  enable: false
+  enable: true
   exclude:
     # - xxxx
     # - xxxx
 
 # Inject the css and script (aplayer/meting)
 aplayerInject:
-  enable: false
+  enable: true
   per_page: true
 
 # Snackbar (Toast Notification 彈窗)
@@ -886,6 +886,7 @@ inject:
     - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
     - <link rel="stylesheet" href="/css/iconfont.css" media="defer" onload="this.media='all'">
   bottom:
+    - <div class="aplayer no-destroy" data-id="998713252" data-server="tencent" data-type="playlist" data-fixed="true" data-autoplay="true"> </div>
     # - <script src="xxxx"></script>
     # - <script src="https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js"></script>
 
@@ -972,6 +973,7 @@ CDN:
   aplayer_css: https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css
   aplayer_js: https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js
   meting_js: https://cdn.jsdelivr.net/gh/metowolf/MetingJS@1.2/dist/Meting.min.js
+  # meting_js: /js/Meting.min.js
 
   # Prism.js
   prismjs_js: https://cdn.jsdelivr.net/npm/prismjs/prism.min.js

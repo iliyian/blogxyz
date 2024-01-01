@@ -141,3 +141,7 @@ feed:
 markdown:
   plugins:
     - '@renbaoshuo/markdown-it-katex'
+
+aplayer:
+  meting: true
+  asset_inject: true
