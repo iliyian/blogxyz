@@ -1,4 +1,23 @@
-- class_name: 传送门
+- class_name: 别处
+  class_desc: 其他自建站点
+  link_list:
+    - name: Google镜像
+      link: https://google.bookgirl.xyz
+      avatar: https://upload.wikimedia.org/wikipedia/commons/2/2d/Google-favicon-2015.png?20150901215638
+      descr: 套了cloudflare
+    - name: 站点监测
+      link: https://status.iliyian.com
+      avatar: https://uptime.betterstack.com/assets/favicon/betterstack-default-128-fcab8207d7445e90de9ff6ec8ba261b8f04d3cfd3599047ce8f0013bcade6ea4.png
+      descr: with betterstack
+    - name: Alist
+      link: https://alist.iliyian.com
+      avatar: https://alist.iliyian.com/favicon.ico
+      descr: 公开分享的资源
+    - name: Cloudreve
+      link: https://cloud.bookgirl.xyz
+      avatar: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQCysIJPNyKWn-rdd-B52H52hiQrwUnUka5pYePP9j0A&s
+      descr: 自用网盘
+- class_name: 挚友
   class_desc: 易安伙伴们的博客
   link_list:
     - name: 無何有之鄉
