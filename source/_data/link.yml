@@ -8,7 +8,7 @@
     - name: Google翻译镜像
       link: https://translate.iliyian.com
       avatar: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Google_Translate_logo.svg/2048px-Google_Translate_logo.svg.png
-      descr:      
+      descr: 有时或许有用
     - name: 站点监测
       link: https://status.iliyian.com
       avatar: https://uptime.betterstack.com/assets/favicon/betterstack-default-128-fcab8207d7445e90de9ff6ec8ba261b8f04d3cfd3599047ce8f0013bcade6ea4.png
