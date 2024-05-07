@@ -93,7 +93,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: '/img/angel-sorrow.png'
+index_img: '/img/angel-sorrow.webp'
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: '/img/sonetto_pondering_centered.jpg'
@@ -112,7 +112,7 @@ tag_per_img:
 
 # If the banner of category page not setting, it will show the top_img
 # note: category page, not categories page (子分類頁面的 top_img)
-category_img: '/img/angel-sorrow.jpg'
+category_img: '/img/angel-sorrow.webp'
 
 # The banner image of category page
 # format:
