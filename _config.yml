@@ -144,4 +144,4 @@ markdown:
 
 aplayer:
   meting: true
-  asset_inject: true
+  asset_inject: false
