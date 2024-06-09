@@ -63,3 +63,7 @@
       link: /bcbker2/
       avatar: /img/bcbker2.jpg
       descr: 虽然游戏体验可能还没原版好QAQ
+    - name: flappy-bird on flutter
+      link: https://flappy-bird.iliyian.com
+      avatar: https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png
+      descr: Excellent!
