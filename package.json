@@ -20,7 +20,7 @@
     "gulp-htmlmin": "^5.0.1",
     "gulp-imagemin": "^8.0.0",
     "gulp-uglify": "^3.0.2",
-    "hexo": "^7.0.0-rc2",
+    "hexo": "^7.2.0",
     "hexo-abbrlink": "^2.2.1",
     "hexo-deployer-git": "^4.0.0",
     "hexo-filter-nofollow": "^2.0.2",
@@ -39,8 +39,8 @@
     "hexo-theme-butterfly": "^4.13.0",
     "hexo-theme-landscape": "^0.0.3",
     "hexo-wordcount": "^6.0.1",
-    "katex": "^0.16.9",
+    "katex": "^0.16.10",
     "lodash.template": "^4.5.0",
-    "marked": "^12.0.0"
+    "marked": "^13.0.0"
   }
 }
