@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "hexo-site",
   "version": "0.0.0",
   "private": true,
@@ -9,37 +10,11 @@
     "server": "hexo server"
   },
   "hexo": {
-    "version": "7.2.0"
+    "version": "7.3.0"
   },
+=======
+>>>>>>> 1996b06609ac891560a0fe3d56262c64ce1b40fb
   "dependencies": {
-    "@renbaoshuo/markdown-it-katex": "^2.0.2",
-    "glob-parent": "^6.0.2",
-    "gulp": "^5.0.0",
-    "gulp-clean-css": "^4.3.0",
-    "gulp-htmlclean": "^2.7.22",
-    "gulp-htmlmin": "^5.0.1",
-    "gulp-imagemin": "^9.1.0",
-    "gulp-uglify": "^3.0.2",
-    "hexo": "^7.3.0",
-    "hexo-abbrlink": "^2.2.1",
-    "hexo-deployer-git": "^4.0.0",
-    "hexo-filter-nofollow": "^2.0.2",
-    "hexo-generator-archive": "^2.0.0",
-    "hexo-generator-category": "^2.0.0",
-    "hexo-generator-feed": "^3.0.0",
-    "hexo-generator-index": "^3.0.0",
-    "hexo-generator-search": "^2.4.3",
-    "hexo-generator-tag": "^2.0.0",
-    "hexo-renderer-ejs": "^2.0.0",
-    "hexo-renderer-markdown-it": "^7.1.1",
-    "hexo-renderer-pug": "^3.0.0",
-    "hexo-renderer-stylus": "^3.0.1",
-    "hexo-server": "^3.0.0",
-    "hexo-tag-aplayer": "^3.0.4",
-    "hexo-theme-butterfly": "^4.13.0",
-    "hexo-wordcount": "^6.0.1",
-    "katex": "^0.16.11",
-    "lodash.template": "^4.5.0",
-    "marked": "^13.0.2"
+    "hexo": "^7.3.0"
   }
 }
