@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "hexo-site",
   "version": "0.0.0",
   "private": true,
@@ -12,8 +11,6 @@
   "hexo": {
     "version": "7.3.0"
   },
-=======
->>>>>>> 1996b06609ac891560a0fe3d56262c64ce1b40fb
   "dependencies": {
     "hexo": "^7.3.0"
   }
