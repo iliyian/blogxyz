@@ -97,7 +97,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: '/img/angel-sorrow.webp'
+index_img: '/img/angel-sorrow-half.webp'
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: '/img/sonetto_pondering_centered.jpg'
