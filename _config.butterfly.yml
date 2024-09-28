@@ -384,7 +384,7 @@ chat_hide_show: false
 # chatra
 # https://chatra.io/
 chatra:
-  enable: true
+  enable: false
   id: fL7sqrHLC76JtQvDC
 
 # tidio
@@ -425,7 +425,8 @@ footer:
 
 # Baidu Analytics
 # https://tongji.baidu.com/web/welcome/login
-baidu_analytics: a952c0a68f799cf75033595b45206e8e
+baidu_analytics: 
+  #a952c0a68f799cf75033595b45206e8e
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
@@ -538,13 +539,13 @@ canvas_ribbon:
 
 # Fluttering Ribbon (動態彩帶)
 canvas_fluttering_ribbon:
-  enable: true
-  mobile: true
+  enable: false
+  mobile: false
 
 # canvas_nest
 # https://github.com/hustcc/canvas-nest.js
 canvas_nest:
-  enable: true
+  enable: false
   color: '255,0,0' #color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
   opacity: 0.618 # the opacity of line (0~1), default: 0.5.
   zIndex: -1 # z-index property of the background, default: -1.
@@ -561,7 +562,7 @@ activate_power_mode:
 
 # Mouse click effects: fireworks (鼠標點擊效果: 煙火特效)
 fireworks:
-  enable: true
+  enable: false
   zIndex: 9999 # -1 or 9999
   mobile: true
 
@@ -622,7 +623,7 @@ font:
 # 左上角網站名字 主頁居中網站名字
 blog_title_font:
   font_link:
-  font-family: Liu Jian Mao Cao
+  font-family: 
 
 # The setting of divider icon (水平分隔線圖標設置)
 hr_icon:
@@ -796,7 +797,7 @@ medium_zoom: false
 
 # fancybox
 # http://fancyapps.com/fancybox/3/
-fancybox: true
+fancybox: false
 
 # Tag Plugins settings (標籤外掛)
 # --------------------------------------
@@ -856,7 +857,7 @@ instantpage: true
 # https://github.com/vinta/pangu.js
 # Insert a space between Chinese character and English character (中英文之間添加空格)
 pangu:
-  enable: true
+  enable: false
   field: site # site/post
 
 # Lazyload (圖片懶加載)
@@ -893,7 +894,8 @@ inject:
     - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
     - <link rel="stylesheet" href="/css/iconfont.css" media="defer" onload="this.media='all'">
   bottom:
-    - <div class="aplayer no-destroy" data-id="000Bq9HY3MlZm7" data-server="tencent" data-type="song" data-fixed="true" data-autoplay="true"> </div>
+    - <div class="aplayer no-destroy" data-id="72474464" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="true" data-lrcType="-1"> </div>
+    - <script defer pjax data-api="https://busuanzi.iliyian.com/api" data-prefix="busuanzi_value" src="https://busuanzi.iliyian.com/js"></script>
     # - <script src="xxxx"></script>
     # - <script src="https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js"></script>
 
