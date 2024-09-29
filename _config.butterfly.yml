@@ -24,15 +24,15 @@ hide_sidebar_menu_child: false
 # Code Blocks (代碼相關)
 # --------------------------------------
 
-highlight_theme: ocean # darker / pale night / light / ocean / false
+highlight_theme: light # darker / pale night / light / ocean / false
 highlight_height_limit: false # unit: px
-code_word_wrap: false
+code_word_wrap: true
 
 # highlight toolbar
 highlight_theme_macStyle: true # use mac style
 highlight_copy: true # copy button
 highlight_lang: true # show the code language
-highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
+highlight_shrink: true # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
 highlight_fullpage: true # true: add button to toggle full page
 
 # copy settings
