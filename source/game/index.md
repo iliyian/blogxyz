@@ -1,7 +1,7 @@
 ---
 title: game
 date: 2021-06-26 22:14:15
-top_img: /img/game.png
+top_img: https://r2-imgs.iliyian.com/img/game.png
 ---
 
 <div class="gallery-group-main">
