@@ -3,8 +3,8 @@ title: 《魔法少女Lya》命题报告
 tags: 算法
 abbrlink: bf9a8431
 date: 2024-09-29 22:46:23
-cover: /img/qun.png
-top_img: /img/qun.png
+cover: https://r2-imgs.iliyian.com/img/qun.png
+top_img: https://r2-imgs.iliyian.com/img/qun.png
 ---
 
 # 《魔法少女Lya》命题报告

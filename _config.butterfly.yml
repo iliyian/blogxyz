@@ -86,21 +86,21 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/bookgirl_ico.jpg
+favicon: https://r2-imgs.iliyian.com/img/bookgirl_ico.jpg
 
 # Avatar (頭像)
 avatar:
-  img: /img/tg_avatar.jpg
+  img: https://r2-imgs.iliyian.com/img/tg_avatar.jpg
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: '/img/angel-sorrow-half.webp'
+index_img: https://r2-imgs.iliyian.com/img/angel-sorrow-half.webp
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: '/img/sonetto_pondering_centered.jpg'
+default_top_img: https://r2-imgs.iliyian.com/img/sonetto_pondering_centered.jpg
 
 # The banner image of archive page
 archive_img:
@@ -195,10 +195,10 @@ post_copyright:
 reward:
   enable: false
   QR_code:
-    # - img: /img/wechat.jpg
+    # - img: https://r2-imgs.iliyian.com/img/wechat.jpg
     #   link:
     #   text: wechat
-    # - img: /img/alipay.jpg
+    # - img: https://r2-imgs.iliyian.com/img/alipay.jpg
     #   link:
     #   text: alipay
 
@@ -865,7 +865,7 @@ pangu:
 lazyload:
   enable: true
   field: site # site/post
-  placeholder: /img/loading-cat.gif
+  placeholder: https://r2-imgs.iliyian.com/img/loading-cat.gif
   blur: false
 
 # PWA
