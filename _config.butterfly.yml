@@ -167,7 +167,7 @@ wordcount:
   min2read: true
   total_wordcount: true
 
-# Display the article introduction on homepage
+# Display the icle introduction on homepage
 # 1: description
 # 2: both (if the description exists, it will show description, or show the auto_excerpt)
 # 3: auto_excerpt (default)
@@ -920,7 +920,8 @@ CDN:
   disqusjs_css: https://cdn.jsdelivr.net/npm/disqusjs@1/dist/disqusjs.css
   utterances: https://utteranc.es/client.js
   twikoo: https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js
-  waline: https://cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js
+  # waline: https://cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js
+  waline: https://cdn.jsdelivr.net/npm/@waline/client@3.3.2/dist/waline.umd.min.js
 
   # share
   addtoany: https://static.addtoany.com/menu/page.js
