@@ -343,6 +343,10 @@ waline:
   bg: # waline background
   visitor: true
   option:
+    locale: {
+      placeholder: '世界上的一队小小的漂泊者呀，请留下你们的足印在我的文字里',
+      sofa: '她的热切的脸，如夜雨似的，搅扰着我的梦魂。'
+      }
 
 # utterances
 # https://utteranc.es/
