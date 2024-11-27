@@ -1,5 +1,5 @@
 ---
-title: 题解 - mex_of_mex_of_mex
+title: 题解 - MEX 的 MEX 的 MEX
 categories:
   - Competitive Programming
   - 算法
