@@ -343,6 +343,7 @@ waline:
   bg: # waline background
   visitor: true
   option:
+    locale: {sofa: '世界上的一队小小的漂泊者呀，请留下你们的足印在我的文字里'}
 
 # utterances
 # https://utteranc.es/
