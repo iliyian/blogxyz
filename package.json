@@ -38,7 +38,7 @@
     "hexo-tag-aplayer": "^3.0.4",
     "hexo-theme-butterfly": "^5.2.2",
     "hexo-wordcount": "^6.0.1",
-    "katex": "^0.16.15",
+    "katex": "^0.16.19",
     "lodash.template": "^4.5.0",
     "marked": "^15.0.5"
   }
