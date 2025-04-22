@@ -40,6 +40,6 @@
     "hexo-wordcount": "^6.0.1",
     "katex": "^0.16.21",
     "lodash.template": "^4.5.0",
-    "marked": "^15.0.6"
+    "marked": "^15.0.9"
   }
 }
