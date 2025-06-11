@@ -49,7 +49,7 @@ copy:
 social:
   fab fa-github: https://github.com/iliyian || Github
   fab fa-telegram: https://t.me/iliyian || Telegram
-  iconfont icon-bilibili3: https://space.bilibili.com/299627858 || Bilibili
+  #iconfont icon-bilibili3: https://space.bilibili.com/299627858 || Bilibili
 
 # search (搜索)
 # --------------------------------------
