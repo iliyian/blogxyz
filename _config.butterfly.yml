@@ -698,7 +698,7 @@ aside:
       link: https://t.me/iliyian
   card_announcement:
     enable: true
-    content: 只剩下力气叹一句，人生若只如初见。
+    content: 你是信的开头，诗的内容，童话的结尾。
   card_recent_post:
     enable: false
     limit: 5 # if set 0 will show all
